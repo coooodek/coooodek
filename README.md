@@ -1,7 +1,13 @@
 <h2 align = "center">✨A self-study space✨</h2>
-<h4 align = "center">where a mechanical engineer is learing to become a backend engineer</h4>
+<h3 align = "center">where a mechanical engineer is studying backend engineering</h3>
+
+<h4 align = "center">- Mechanical Design Engineer </h4>
+<h4 align = "center">- B.S. in Physics </h4>
+<h4 align = "center">- A.A.S. in Mechanical Design Engineering </h4>
+<h4 align = "center">- 4 years of mechanical design experience </h4>
 
 <hr>
+
 
 <h3>🛠️ Current Skills</h3>
 <p>
@@ -16,6 +22,11 @@
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+<h3>📃 License</h3>
+<p>
+  <img src="https://img.shields.io/badge/Big%20Data%20Analysis%20Engineer-Korea-FFFFFF?style=for-the-badge&logo=databricks&logoColor=black" alt="Big Data Analysis Engineer"/>
 </p>
 
 <hr>
